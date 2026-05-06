@@ -18,4 +18,4 @@ built using Splunk, VirusTotal, URLScan.io, and MITRE ATT&CK.
 - Week 4: Documentation
 
 ## Status
-🔄 In Progress
+🔄 Completed
